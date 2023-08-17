@@ -4,11 +4,11 @@ Meu nome é Arthur Coelho Saraiva, estudante do Instituto Federal do Tocantins -
 
 
 ## -> Minhas redes:
-http://tiktok.com/@arthurrrcoelho
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthurcoelho.s?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
 
-https://instagram.com/arthurcoelho.s?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
+[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](http://tiktok.com/@arthurrrcoelho)
 
-https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arthurrrcoelho)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arthurrrcoelho?t=ey2xqDy9y8YxMjRRR85lXA&s=08)
 
 ## -> Entre em contato comigo:
 arthur.saraiva@estudante.ifto.edu.br
