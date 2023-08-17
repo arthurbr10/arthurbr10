@@ -8,7 +8,7 @@ http://tiktok.com/@arthurrrcoelho
 
 https://instagram.com/arthurcoelho.s?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
 
-https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arthurrrcoelho?t=ey2xqDy9y8YxMjRRR85lXA&s=08)
+https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arthurrrcoelho)
 
 ## -> Entre em contato comigo:
 arthur.saraiva@estudante.ifto.edu.br
